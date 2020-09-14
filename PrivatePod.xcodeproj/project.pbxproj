@@ -61,6 +61,7 @@
 		258AE9F8250F68970097B23D /* PrivatePod */ = {
 			isa = PBXGroup;
 			children = (
+				258AEA12250F6BD50097B23D /* Class */,
 				258AE9F9250F68970097B23D /* AppDelegate.h */,
 				258AE9FA250F68970097B23D /* AppDelegate.m */,
 				258AE9FC250F68970097B23D /* SceneDelegate.h */,
@@ -74,6 +75,13 @@
 				258AEA0B250F68990097B23D /* main.m */,
 			);
 			path = PrivatePod;
+			sourceTree = "<group>";
+		};
+		258AEA12250F6BD50097B23D /* Class */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Class;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
